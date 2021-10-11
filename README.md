@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Fall 2021 - ENGR 110 - Community-Based Engineering Design
 
-You can use the [editor on GitHub](https://github.com/JAVAB3ANS/engr-110/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <img style="width: 75%" src="https://media-exp1.licdn.com/dms/image/C4D1BAQGyDoGjXbunhg/company-background_10000/0/1580146120377?e=2159024400&v=beta&t=-TO4WQx8W91tggO2uGBmj6rHi88mDbHwhgAazc3LLE8">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This course combines engineering design with service learning to provide students hands-on engineering experience while working on a project that addresses a real-world problem in the community. Engineering student teams work directly with customers from the community partner organization. Project work will cover all phases of the engineering design process, with some projects lasting multiple quarters or years. Teams are meant to be vertically integrated, with team members at various levels, and past course knowledge allows students to assume leadership responsibilities.
 
-### Markdown
+## The Stakeholder's Mission
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The mission of Hillsdale High School is to enable all students to reach their academic and personal potential. As an educational community of students, parents, and staff, we are committed to sharing the responsibility for the mission.
 
-```markdown
-Syntax highlighted code block
+## Problem Statement
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JAVAB3ANS/engr-110/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+Hillsdale High School needs a rain collection system to become more self-sustainable and to expand and irrigate their community garden in order to better serve their local community by providing food through their Peace Pantry program.
+ 
+## Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
