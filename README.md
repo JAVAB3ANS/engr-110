@@ -29,7 +29,7 @@ Hillsdale High School needs a rain collection system to become more self-sustain
 ## Gantt Chart 
 
 <p align="center">
-  <img style="width: 75%" src="https://user-images.githubusercontent.com/42426861/136862253-e2cc1708-16fd-477e-a2a5-ba3922afe0e1.png">
+  <img src="https://user-images.githubusercontent.com/42426861/136862253-e2cc1708-16fd-477e-a2a5-ba3922afe0e1.png">
 </p> 
 
 ## Be in Touch
