@@ -1,4 +1,4 @@
-# ENGR 110 - Community-Based Engineering Design
+# ENGR 110 - Community-Based ENGR Design
 
 <p align="center">
   <img style="width: 75%" src="https://media-exp1.licdn.com/dms/image/C4D1BAQGyDoGjXbunhg/company-background_10000/0/1580146120377?e=2159024400&v=beta&t=-TO4WQx8W91tggO2uGBmj6rHi88mDbHwhgAazc3LLE8">
@@ -16,8 +16,8 @@ Hillsdale High School needs a rain collection system to become more self-sustain
 
 ## About Us
 
-- **Jason Vu**: Web Design and Engineering double majoring in Computer Engineering and Sociology
-- **Sunny Jayam**: Electrical and Computer Engineering
+- **Jason Vu**: Web Design & Engineering double minoring in Computer Engineering & Sociology
+- **Sunny Jayam**: Electrical & Computer Engineering
 - **Eric Tsuchiya**: General Engineering
  
 ## Be in Touch
