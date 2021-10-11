@@ -16,7 +16,7 @@ Hillsdale High School needs a rain collection system to become more self-sustain
 
 ## About Us
 
-- **Jason Vu**: Web Design & Engineering double minoring in Computer Engineering & Sociology
+- **Jason Vu**: Web Design & Engineering minoring in Computer Engineering & Sociology
 - **Sunny Jayam**: Electrical & Computer Engineering
 - **Eric Tsuchiya**: General Engineering
  
