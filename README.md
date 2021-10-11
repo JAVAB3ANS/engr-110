@@ -1,4 +1,4 @@
-# Fall 2021 - ENGR 110 - Community-Based Engineering Design
+# ENGR 110 - Community-Based Engineering Design
 
 <p align="center">
   <img style="width: 75%" src="https://media-exp1.licdn.com/dms/image/C4D1BAQGyDoGjXbunhg/company-background_10000/0/1580146120377?e=2159024400&v=beta&t=-TO4WQx8W91tggO2uGBmj6rHi88mDbHwhgAazc3LLE8">
@@ -13,7 +13,13 @@ The mission of Hillsdale High School is to enable all students to reach their ac
 ## Problem Statement
 
 Hillsdale High School needs a rain collection system to become more self-sustainable and to expand and irrigate their community garden in order to better serve their local community by providing food through their Peace Pantry program.
- 
-## Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## About Us
+
+- **Jason Vu**: Web Design and Engineering double majoring in Computer Engineering and Sociology
+- **Sunny Jayam**: Electrical and Computer Engineering
+- **Eric Tsuchiya**: General Engineering
+ 
+## Be in Touch
+
+If you have any additional questions or would want to be updated on our work and project, please contact us at **jvu@scu.edu**!
