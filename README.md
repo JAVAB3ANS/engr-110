@@ -42,11 +42,13 @@ Values:
 
 Hillsdale High School needs a rain collection system to become more self-sustainable and expand and irrigate their community garden to serve their local community.
 ```
+
 ```
 Value Proposition Phrasing:
 
 - Our <product> help(s) <customer segment> who want to <jobs to be done> by <your own verb, e.g., reducing, avoiding> <bad things, e.g., cost> and <your own verb e.g., increasing, enabling> <good things, e.g., performance> (unlike <competing value proposition>).
 ```
+
 ```
 Things to Consider:
 
@@ -58,6 +60,7 @@ Alleviate extreme pains
 Achieving fit is a challenge
 Keeping fit is also challenging since customer and competitors change over time
 ```
+
 ```
 Developing Customer Needs:
 
@@ -67,6 +70,7 @@ Developing Customer Needs:
 - Marketing said, “here are the specs”
 - If a product has a use case / good fit for the customer, it will succeed in the long run.
 ```
+
 ```
 Gathering Information:
 
@@ -76,33 +80,39 @@ Gathering Information:
 	- surveys
 	- focus groups
 ```
+
 ```
 Interviews:
 
-- Example Questions:
+- How:
 	- How: Do you plan to install the < > 
 	- How expendable do you want the product to be?
-- How will you get more students involved in the project?
-- How do you plan on funding the project?
-- Realistically, how long do you expect the project to be in place given the current circumstances?
-- How much water will be needed for the current garden and future garden if it’s 10 by 30 yards (eyeballing - not exact at all)? How much do they want to expand it?
-	- What:
+	- How will you get more students involved in the project?
+	- How do you plan on funding the project?
+	- Realistically, how long do you expect the project to be in place given the current circumstances?
+	- How much water will be needed for the current garden and future garden if it’s 10 by 30 yards (eyeballing - not exact at all)? How much do they want to expand it?
+
+- What:
 	- What is the overall outcome you hope to achieve
-		...are the functions for the product ?
-		...environmental stresses does the product have to withstand?
-What is the timeframe/ expected lifespan of the product
-What kind of skills do you expect people to have in order to maintain the project? Would it be the students , volunteers, and/or faculty/staff?
+	- What are the functions for the product ?
+	- What are the environmental stresses does the product have to withstand?
+	- What is the timeframe/ expected lifespan of the product
+	- What kind of skills do you expect people to have in order to maintain the project? Would it be the students , volunteers, and/or faculty/staff?
+
 - Where:
-	...have you seen a similar product?
-	…will this be located?
+	- Where have you seen a similar product?
+	- Where will this be located?
+
 - Who:
-	...will be using this product?
-	...will this product be most beneficial to you?
-Who will be the people performing maintenance on this product?
-- When
-	...is the product needed by <> ?
-	...will the product most likely be used?
+	- Who will be using this product?
+	- Who will this product be most beneficial to you?
+	- Who will be the people performing maintenance on this product?
+
+- When:
+	- When is the product needed by <> ?
+	- When will the product most likely be used?
 ```
+
 ```
 Interview Tips:
 
@@ -115,6 +125,7 @@ Interview Tips:
 - Do not give your opinion
 - Be mindful of people’s time!
 ```
+
 ```
 Design Canvas:
 
@@ -163,6 +174,7 @@ How and when does it rain?
 - September-March is big rain months 
 - More rain than the airport
 ``` 
+
 ```
 How much water is needed for the garden approx?
 
@@ -172,6 +184,7 @@ How much water is needed for the garden approx?
 - 15 minute watering time
 - Need baseline of water use
 ```
+
 ```
 How do you plan on maintaining the system in the future?
 
@@ -179,16 +192,19 @@ How do you plan on maintaining the system in the future?
 - Custodial club
 - Engineering Club
 ```
+
 ```
 What is the budget for the system? 
 
 - 2 thousand to five thousand 
 ```
+
 ```
 How do you want your students involved in the project?
 
 - Basic maintenance
 ```
+
 ```
 How expandable do you want the product to be?
 
@@ -196,43 +212,49 @@ How expandable do you want the product to be?
 - Larger plot can potentially be used
 Very far away
 ```
+
 ```
 How will maintain the system?
 
 - Plant manager and staff
 - AP environmental science program
 ```
+
 ```
 What does the funding look like?
 
 ~ 2-5,000 dollars
 ```
+
 ```
 When to install the system?
 
 - Ideally by next summer
 - Long term type of system 
 ```
+
 ```
 What does this system look like to you?
 
 - Can it deliver water 
 - Special ed part of campus
 ```
+
 ```
 This quarter would be the design part of it?
 
 - Two different models by december 
 ```
+
 ```
 We need to power the system
 Solar
 How much power
 
-
 Hired architect to work on expanded garden
 Contact
 ```
+
 ```
 1. List any additional discussion or relevant project info you learned
 a. Partnering with custodian department for instillation
