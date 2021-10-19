@@ -35,6 +35,7 @@ Hillsdale High School needs a rain collection system to become more self-sustain
 ## Identifying Customers
 ```
 Values:
+
 - Sustainable
 - Cost effective
 - Maximizing resources
@@ -53,12 +54,12 @@ Value Proposition Phrasing:
 Things to Consider:
 
 Customer - product fit is achieved when:
-Address important jobs
-Create essential gains
-Alleviate extreme pains
+- Address important jobs
+- Create essential gains
+- Alleviate extreme pains
 
-Achieving fit is a challenge
-Keeping fit is also challenging since customer and competitors change over time
+[] Achieving fit is a challenge
+[] Keeping fit is also challenging since customer and competitors change over time
 ```
 
 ```
@@ -130,15 +131,15 @@ Interview Tips:
 Design Canvas:
 
 - Gains:
-Renewable resources 
-Less money spent on water and electricity
-Giving back to the community with produce
+	[] Renewable resources 
+	[] Less money spent on water and electricity
+	[] Giving back to the community with produce
 
 - Pains:
-Costs money to water their gardens
-California is in a drought
-Food insecurity is rising
-Schools have a limited budget
+	[] Costs money to water their gardens
+	[] California is in a drought
+	[] Food insecurity is rising
+	[] Schools have a limited budget
 ```
 
 ```
@@ -159,7 +160,8 @@ Customer Need Statements:
 ```
 
 ```
-Metric
+Metric:
+
 - Single rain barrel - see what average capacity for irrigation system threshold is (in gallons or can also be in barrels depending on how you define that)- min 50 gallons
 - Distribution of water is on gallon rate (factor in what plants they’re planting, and what benchmarks and frequencies for maintaining of said plants and harvesting); Distribution in gallons per minute (GPM)
 ```
