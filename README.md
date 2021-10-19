@@ -34,6 +34,42 @@ Hillsdale High School needs a rain collection system to become more self-sustain
 
 ## Identifying Customers
 ```
+Values:
+- Sustainable
+- Cost effective
+- Maximizing resources
+- Helping the community
+
+Hillsdale High School needs a rain collection system to become more self-sustainable and expand and irrigate their community garden to serve their local community.
+```
+```
+Value Proposition Phrasing:
+
+- Our <product> help(s) <customer segment> who want to <jobs to be done> by <your own verb, e.g., reducing, avoiding> <bad things, e.g., cost> and <your own verb e.g., increasing, enabling> <good things, e.g., performance> (unlike <competing value proposition>).
+```
+```
+Things to Consider:
+
+Customer - product fit is achieved when:
+Address important jobs
+Create essential gains
+Alleviate extreme pains
+
+Achieving fit is a challenge
+Keeping fit is also challenging since customer and competitors change over time
+```
+```
+Developing Customer Needs:
+
+- Ways to determine needs…
+- My boss/advisor said “do it this way” 
+- Team member John Doe said, “Gosh, I would buy”
+- Marketing said, “here are the specs”
+- If a product has a use case / good fit for the customer, it will succeed in the long run.
+```
+```
+Gathering Information:
+
 - Really depends on the type of information needed
 	- “on the job” observations
 	- interviews
@@ -69,40 +105,46 @@ Who will be the people performing maintenance on this product?
 ```
 ```
 Interview Tips:
-Go to an interview with at least one other person.
-One can focus on asking questions and the other on listening and taking notes
-Take notes of everything, not just what you want to hear. Record direct quotes!
-Listen carefully  
-Have the customer demonstrate
-Watch body language; yours and theirs
-Do not give your opinion
-Be mindful of people’s time!
+
+- Go to an interview with at least one other person.
+- One can focus on asking questions and the other on listening and taking notes
+- Take notes of everything, not just what you want to hear. Record direct quotes!
+- Listen carefully  
+- Have the customer demonstrate
+- Watch body language; yours and theirs
+- Do not give your opinion
+- Be mindful of people’s time!
 ```
 ```
 Design Canvas:
-Gains:
+
+- Gains:
 Renewable resources 
 Less money spent on water and electricity
 Giving back to the community with produce
-Pains:
+
+- Pains:
 Costs money to water their gardens
 California is in a drought
 Food insecurity is rising
 Schools have a limited budget
 ```
+
 ```
 Job-to-be-done: 
-Design a system that is sustainable and manageable by anyone in their community
-Find a cost effective way to engineer the system as the school has a limited budget
+
+- Design a system that is sustainable and manageable by anyone in their community
+- Find a cost effective way to engineer the system as the school has a limited budget
 ```
 
 ```
 Customer Need Statements:
-Store water
-Generate and store electricity via solar panels
-Irrigate garden
-Collect water
-Save money
+
+- Store water
+- Generate and store electricity via solar panels
+- Irrigate garden
+- Collect water
+ -Save money
 ```
 
 ```
@@ -115,62 +157,72 @@ Metric
 
 ```
 How and when does it rain?
-Sporadic November/December, Peak Jan/Feb
-Comes in sheets sometimes
-September -March is big rain months 
-More rain than the airport
+
+- Sporadic November/December, Peak Jan/Feb
+- Comes in sheets sometimes
+- September-March is big rain months 
+- More rain than the airport
 ``` 
 ```
 How much water is needed for the garden approx?
-They do not collect data 
-Watered about every other day
-Two beds about 10X15X3  feet
-15 minute watering time
-Need baseline of water use
+
+- They do not collect data 
+- Watered about every other day
+- Two beds about 10X15X3  feet
+- 15 minute watering time
+- Need baseline of water use
 ```
 ```
 How do you plan on maintaining the system in the future?
+
 - Environmental club 
 - Custodial club
 - Engineering Club
 ```
 ```
 What is the budget for the system? 
+
 - 2 thousand to five thousand 
 ```
 ```
 How do you want your students involved in the project?
-Basic maintenance
+
+- Basic maintenance
 ```
 ```
 How expandable do you want the product to be?
-Current expansion from presentation
-Larger plot can potentially be used
+
+- Current expansion from presentation
+- Larger plot can potentially be used
 Very far away
 ```
 ```
 How will maintain the system?
 
-Plant manager and staff
-AP environmental science program
+- Plant manager and staff
+- AP environmental science program
 ```
 ```
 What does the funding look like?
-~2-5,000 dollars
+
+~ 2-5,000 dollars
 ```
 ```
 When to install the system?
-Ideally by next summer
-Long term type of system 
+
+- Ideally by next summer
+- Long term type of system 
 ```
 ```
 What does this system look like to you?
-Can it deliver water 
-Special ed part of campus
+
+- Can it deliver water 
+- Special ed part of campus
 ```
 ```
 This quarter would be the design part of it?
-Two different models by december 
+
+- Two different models by december 
 ```
 ```
 We need to power the system
