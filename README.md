@@ -32,34 +32,34 @@ The mission of Hillsdale High School is to enable all students to reach their ac
 
 Hillsdale High School is extending their community garden and implementing a rainwater collection system to strengthen their sustainability efforts. The community garden provides vegetables to Hillsdale High School activities such as the Peace Pantry. The rainwater collecting system is an environmentally beneficial method of watering the landscape. Our objective at Hillsdale High School is to maximize all resources, resulting in a cleaner environment that is also financially effective. By recycling resources, we will also be able to give back to the community by growing vegetables using an irrigation system that uses recovered rain water.
 
-## Meeting Minute 1 - 09/28th
+## Meeting 1 - 09/28th
 
 We went through early team logistics in class, both within our own teams and with co-teams. We then practiced interview questions in preparation for our forthcoming Zoom appointment with Hillsdale High School instructors.
 
-## Meeting Minute 2 - 10/5th
+## Meeting 2 - 10/5th
 
 Each team's representatives held a Zoom conference with Dave and JB from Hillsdale High School. In preparation for the site visit, some questions were addressed and a couple more were devised. Because the plant manager was unable to attend the meeting, we began drafting questions for him particularly. The site visit was scheduled on October 12 from 3 to 4:30 p.m.
 
 - [Question Document](https://docs.google.com/document/d/1NWoTa81LSILq0i6DW2YFpbux20Ehi0ZBfaJ_oV1VPP4/edit?usp=sharing)
 - [Meeting Archive](https://drive.google.com/file/d/1Ob3l_hM404vVwwY3JIUrWCRekaEefHrB/view?usp=sharing)
 
-## Meeting Minute 3 - 10/7th
+## Meeting 3 - 10/7th
 
 We had a huge team meeting to plan the next site visit, and I contributed to the list of questions to ask on the site visit.
 
 - [Preparation Document](https://docs.google.com/document/d/141XaEoDPXp4pyrXGkRxmSJ0eWe2O-a9wlKh0NyaBWXc/edit?usp=sharing)
 
-## Meeting Minute 4 - 10/12th (Site Visit)
+## Meeting 4 - 10/12th (Site Visit)
 
 The site tour was quite beneficial as we surveyed the present garden location and prospective future gardens. Water collecting sites have been identified in a number of areas. The current gutter systems are unique to each area of campus. We had a fantastic tour of the school as we were given insight into how we might better serve Hillsdale High School.
 
 By keeping the top pathways dry during wet weather, modifying the gutter system in the STEM building would improve the quality of life for students and staff. Instead of a gutter system for the main campus's roofs, drains in various spots drained water through an unknown mechanism buried under the buildings' walls.
 
-## Meeting Minute 5 - 10/14th
+## Meeting 5 - 10/14th
 
 The three teams got together to talk about the site visit and the extended variety of collecting sites. We divided the job among three groups. Our team was tasked with assessing areas for the central rainwater collection tank, collecting local rainwater for the existing garden at the special built patio, and gathering data on rainfall and garden watering requirements.
 
-## Meeting Minute 6 - 10/19th
+## Meeting 6 - 10/19th
 
 We had a quick team meeting before our check in with Dr. Jak. We discussed which task each team member is responsible for:
 
@@ -67,7 +67,7 @@ We had a quick team meeting before our check in with Dr. Jak. We discussed which
 - Eric: Designing a rainwater collection system for the special ed patio
 - Sunny: Researching data collection tools (Weather Station, water meter) and collecting historical weather data.
 
-## Meeting Minute 7 - 10/23th
+## Meeting 7 - 10/23th
 
 Researching options for data collection:
 
