@@ -18,253 +18,66 @@ This course combines engineering design with service learning to provide student
   <img style="width: 50%" src="https://user-images.githubusercontent.com/42426861/136862502-042c9731-cac2-4e6c-8a10-56b5b25bedf2.png">
 </p>  
 
-## Gantt Chart 
+## Gantt Chart (Updated 10/28/2021)
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/892901673322815511/899888986120679445/unknown.png">
+  <img src="https://media.discordapp.net/attachments/892901673322815511/903349599832526868/unknown.png">
 </p> 
 
 ## The Stakeholder's Mission
 
 The mission of Hillsdale High School is to enable all students to reach their academic and personal potential. As an educational community of students, parents, and staff, we are committed to sharing the responsibility for the mission.
 
-## Problem Statement
+## Project Brief
 
-Hillsdale High School needs a rain collection system to become more self-sustainable and to expand and irrigate their community garden in order to better serve their local community by providing food through their Peace Pantry program.
+Hillsdale High School is extending their community garden and implementing a rainwater collection system to strengthen their sustainability efforts. The community garden provides vegetables to Hillsdale High School activities such as the Peace Pantry. The rainwater collecting system is an environmentally beneficial method of watering the landscape. Our objective at Hillsdale High School is to maximize all resources, resulting in a cleaner environment that is also financially effective. By recycling resources, we will also be able to give back to the community by growing vegetables using an irrigation system that uses recovered rain water.
 
-## Identifying Customers
-```
-Values:
+## Meeting Minute 1 - September 28th
 
-- Sustainable
-- Cost effective
-- Maximizing resources
-- Helping the community
+We went through early team logistics in class, both within our own teams and with co-teams. We then practiced interview questions in preparation for our forthcoming Zoom appointment with Hillsdale High School instructors.
 
-Hillsdale High School needs a rain collection system to become more self-sustainable and expand and irrigate their community garden to serve their local community.
-```
+## Meeting Minute 2 - October 5th
 
-```
-Value Proposition Phrasing:
+Each team's representatives held a Zoom conference with Dave and JB from Hillsdale High School. In preparation for the site visit, some questions were addressed and a couple more were devised. Because the plant manager was unable to attend the meeting, we began drafting questions for him particularly. The site visit was scheduled on October 12 from 3 to 4:30 p.m.
 
-- Our <product> help(s) <customer segment> who want to <jobs to be done> by <your own verb, e.g., reducing, avoiding> <bad things, e.g., cost> and <your own verb e.g., increasing, enabling> <good things, e.g., performance> (unlike <competing value proposition>).
-```
+- [Question Document](https://docs.google.com/document/d/1NWoTa81LSILq0i6DW2YFpbux20Ehi0ZBfaJ_oV1VPP4/edit?usp=sharing)
+- [Meeting Archive](https://drive.google.com/file/d/1Ob3l_hM404vVwwY3JIUrWCRekaEefHrB/view?usp=sharing)
 
-```
-Things to Consider:
+## Meeting Minute 3 - October 7th
 
-Customer - product fit is achieved when:
-- Address important jobs
-- Create essential gains
-- Alleviate extreme pains
+We had a huge team meeting to plan the next site visit, and I contributed to the list of questions to ask on the site visit.
 
-[] Achieving fit is a challenge
-[] Keeping fit is also challenging since customer and competitors change over time
-```
+- [Preparation Document](https://docs.google.com/document/d/141XaEoDPXp4pyrXGkRxmSJ0eWe2O-a9wlKh0NyaBWXc/edit?usp=sharing)
 
-```
-Developing Customer Needs:
+## Meeting Minute 4 - October 12th (Site Visit)
 
-- Ways to determine needs…
-- My boss/advisor said “do it this way” 
-- Team member John Doe said, “Gosh, I would buy”
-- Marketing said, “here are the specs”
-- If a product has a use case / good fit for the customer, it will succeed in the long run.
-```
+The site tour was quite beneficial as we surveyed the present garden location and prospective future gardens. Water collecting sites have been identified in a number of areas. The current gutter systems are unique to each area of campus. We had a fantastic tour of the school as we were given insight into how we might better serve Hillsdale High School.
 
-```
-Gathering Information:
+By keeping the top pathways dry during wet weather, modifying the gutter system in the STEM building would improve the quality of life for students and staff. Instead of a gutter system for the main campus's roofs, drains in various spots drained water through an unknown mechanism buried under the buildings' walls.
 
-- Really depends on the type of information needed
-	- “on the job” observations
-	- interviews
-	- surveys
-	- focus groups
-```
+## Meeting Minute 5 - October 14th
 
-```
-Interviews:
+The three teams got together to talk about the site visit and the extended variety of collecting sites. We divided the job among three groups. Our team was tasked with assessing areas for the central rainwater collection tank, collecting local rainwater for the existing garden at the special built patio, and gathering data on rainfall and garden watering requirements.
 
-- How:
-	- How: Do you plan to install the < > 
-	- How expendable do you want the product to be?
-	- How will you get more students involved in the project?
-	- How do you plan on funding the project?
-	- Realistically, how long do you expect the project to be in place given the current circumstances?
-	- How much water will be needed for the current garden and future garden if it’s 10 by 30 yards (eyeballing - not exact at all)? How much do they want to expand it?
+## Meeting Minute 6 - Octoboer 19th
 
-- What:
-	- What is the overall outcome you hope to achieve
-	- What are the functions for the product ?
-	- What are the environmental stresses does the product have to withstand?
-	- What is the timeframe/ expected lifespan of the product
-	- What kind of skills do you expect people to have in order to maintain the project? Would it be the students , volunteers, and/or faculty/staff?
+We had a quick team meeting before our check in with Dr. Jak. We discussed which task each team member is responsible for:
 
-- Where:
-	- Where have you seen a similar product?
-	- Where will this be located?
+- Jason: Surveying sites for central water collection
+- Eric: Designing a rainwater collection system for the special ed patio
+- Sunny: Researching data collection tools (Weather Station, water meter) and collecting historical weather data.
 
-- Who:
-	- Who will be using this product?
-	- Who will this product be most beneficial to you?
-	- Who will be the people performing maintenance on this product?
+## Meeting Minute 7 - October 23th
 
-- When:
-	- When is the product needed by <> ?
-	- When will the product most likely be used?
-```
+Researching options for data collection:
 
-```
-Interview Tips:
+- As my goal is to survey and identify potential places to store water and infrastructure behind it, I will need to research what we need for filtration and pumping, while adding to the list of places for potential water storage.
+ 
+- If we implement on the red roof, which has already been measured, we will have the option to directly pipe water from that location to the tanks ala physically move water from one place to another.
 
-- Go to an interview with at least one other person.
-- One can focus on asking questions and the other on listening and taking notes
-- Take notes of everything, not just what you want to hear. Record direct quotes!
-- Listen carefully  
-- Have the customer demonstrate
-- Watch body language; yours and theirs
-- Do not give your opinion
-- Be mindful of people’s time!
-```
+- We don't know the campus infrastructure well enough so have to we ask questions to support our system and garner good outcomes.
 
-```
-Design Canvas:
-
-- Gains:
-	[] Renewable resources 
-	[] Less money spent on water and electricity
-	[] Giving back to the community with produce
-
-- Pains:
-	[] Costs money to water their gardens
-	[] California is in a drought
-	[] Food insecurity is rising
-	[] Schools have a limited budget
-```
-
-```
-Job-to-be-done: 
-
-- Design a system that is sustainable and manageable by anyone in their community
-- Find a cost effective way to engineer the system as the school has a limited budget
-```
-
-```
-Customer Need Statements:
-
-- Store water
-- Generate and store electricity via solar panels
-- Irrigate garden
-- Collect water
- -Save money
-```
-
-```
-Metric:
-
-- Single rain barrel - see what average capacity for irrigation system threshold is (in gallons or can also be in barrels depending on how you define that)- min 50 gallons
-- Distribution of water is on gallon rate (factor in what plants they’re planting, and what benchmarks and frequencies for maintaining of said plants and harvesting); Distribution in gallons per minute (GPM)
-```
-
-## Interview Responses
-
-```
-How and when does it rain?
-
-- Sporadic November/December, Peak Jan/Feb
-- Comes in sheets sometimes
-- September-March is big rain months 
-- More rain than the airport
-``` 
-
-```
-How much water is needed for the garden approx?
-
-- They do not collect data 
-- Watered about every other day
-- Two beds about 10X15X3  feet
-- 15 minute watering time
-- Need baseline of water use
-```
-
-```
-How do you plan on maintaining the system in the future?
-
-- Environmental club 
-- Custodial club
-- Engineering Club
-```
-
-```
-What is the budget for the system? 
-
-- 2 thousand to five thousand 
-```
-
-```
-How do you want your students involved in the project?
-
-- Basic maintenance
-```
-
-```
-How expandable do you want the product to be?
-
-- Current expansion from presentation
-- Larger plot can potentially be used
-Very far away
-```
-
-```
-How will maintain the system?
-
-- Plant manager and staff
-- AP environmental science program
-```
-
-```
-What does the funding look like?
-
-~ 2-5,000 dollars
-```
-
-```
-When to install the system?
-
-- Ideally by next summer
-- Long term type of system 
-```
-
-```
-What does this system look like to you?
-
-- Can it deliver water 
-- Special ed part of campus
-```
-
-```
-This quarter would be the design part of it?
-
-- Two different models by december 
-```
-
-```
-We need to power the system
-Solar
-How much power
-
-Hired architect to work on expanded garden
-Contact
-```
-
-```
-1. List any additional discussion or relevant project info you learned
-a. Partnering with custodian department for instillation
-b. Maintenance of project is split between custodian department and student clubs
-c. Larger plot 
-
-2. Describe future communication methods and frequency expectations with your partner
-a. Check in every 2- 3 weeks over Zoom during class on Tuesdays from 3:30-4:30 
+- In terms of collecting and filtering water, there will be a a physical filter that will drain water for the plants and not for drinking so don't need to worry about UV too much to kill pathogens. We need a metal mesh to put on top of the container (preferably from Home Depot) then pour water into the plants along with their leaves. In our case, quantum disinfection is key as it is suitable and convenient for the average-joe homesteader to carry out on a weekly basis. This system employs cutting-edge technology that employs a positively charged surface on the filter medium that draws electrons in pathogens, which are killed when they come into touch with the dynamic Activated Silica ceramic surface. 
 ```
 
 ## Be in Touch
