@@ -81,4 +81,6 @@ Researching options for data collection:
 
 ## Be in Touch
 
-If you have any additional questions or would want to be updated on our work and project, please contact us at **jvu@scu.edu**!
+- Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about the computing industry in the Silicon Valley. 
+- I am enthusiastic to face new challenges and possibilities, so don't hesitate to contact me if our interests align! 
+- If you have any additional questions or would want to be updated on our work and project, please contact me at **jvu@scu.edu**!
