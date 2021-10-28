@@ -63,8 +63,8 @@ The three teams got together to talk about the site visit and the extended varie
 
 We had a quick team meeting before our check in with Dr. Jak. We discussed which task each team member is responsible for:
 
-- Jason: Surveying sites for central water collection
-- Eric: Designing a rainwater collection system for the special ed patio
+- Jason: Surveying sites for central water collection.
+- Eric: Designing a rainwater collection system for the special ed patio.
 - Sunny: Researching data collection tools (Weather Station, water meter) and collecting historical weather data.
 
 ## Meeting 7 - 10/23th
@@ -75,7 +75,7 @@ Researching options for data collection:
  
 - If we implement on the red roof, which has already been measured, we will have the option to directly pipe water from that location to the tanks ala physically move water from one place to another.
 
-- We don't know the campus infrastructure well enough so have to we ask questions to support our system and garner good outcomes.
+- We don't know the campus infrastructure well enough so we have to ask questions to support findings for our system and to garner good outcomes.
 
 - In terms of collecting and filtering water, there will be a a physical filter that will drain water for the plants and not for drinking so don't need to worry about UV too much to kill pathogens. We need a metal mesh to put on top of the container (preferably from Home Depot) then pour water into the plants along with their leaves. In our case, quantum disinfection is key as it is suitable and convenient for the average-joe homesteader to carry out on a weekly basis. This system employs cutting-edge technology that employs a positively charged surface on the filter medium that draws electrons in pathogens, which are killed when they come into touch with the dynamic Activated Silica ceramic surface.
 
