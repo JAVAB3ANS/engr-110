@@ -18,13 +18,13 @@ This course combines engineering design with service learning to provide student
   <img style="width: 50%" src="https://user-images.githubusercontent.com/42426861/136862502-042c9731-cac2-4e6c-8a10-56b5b25bedf2.png">
 </p>  
 
-## Gantt Chart (Updated 10/28/2021)
+## Gantt Chart (As of 10/28/2021)
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/892901673322815511/903349599832526868/unknown.png">
 </p> 
 
-## The Stakeholder's Mission
+## Stakeholder's Mission
 
 The mission of Hillsdale High School is to enable all students to reach their academic and personal potential. As an educational community of students, parents, and staff, we are committed to sharing the responsibility for the mission.
 
@@ -77,8 +77,7 @@ Researching options for data collection:
 
 - We don't know the campus infrastructure well enough so have to we ask questions to support our system and garner good outcomes.
 
-- In terms of collecting and filtering water, there will be a a physical filter that will drain water for the plants and not for drinking so don't need to worry about UV too much to kill pathogens. We need a metal mesh to put on top of the container (preferably from Home Depot) then pour water into the plants along with their leaves. In our case, quantum disinfection is key as it is suitable and convenient for the average-joe homesteader to carry out on a weekly basis. This system employs cutting-edge technology that employs a positively charged surface on the filter medium that draws electrons in pathogens, which are killed when they come into touch with the dynamic Activated Silica ceramic surface. 
-```
+- In terms of collecting and filtering water, there will be a a physical filter that will drain water for the plants and not for drinking so don't need to worry about UV too much to kill pathogens. We need a metal mesh to put on top of the container (preferably from Home Depot) then pour water into the plants along with their leaves. In our case, quantum disinfection is key as it is suitable and convenient for the average-joe homesteader to carry out on a weekly basis. This system employs cutting-edge technology that employs a positively charged surface on the filter medium that draws electrons in pathogens, which are killed when they come into touch with the dynamic Activated Silica ceramic surface.
 
 ## Be in Touch
 
