@@ -67,7 +67,7 @@ We had a quick team meeting before our check in with Dr. Jak. We discussed which
 - Eric: Designing a rainwater collection system for the special ed patio.
 - Sunny: Researching data collection tools (Weather Station, water meter) and collecting historical weather data.
 
-## Meeting 7 - 10/23th
+## Personal Work - 10/23th
 
 Researching options for data collection:
 
@@ -78,6 +78,18 @@ Researching options for data collection:
 - We don't know the campus infrastructure well enough so we have to ask questions to support findings for our system and to garner good outcomes.
 
 - In terms of collecting and filtering water, there will be a a physical filter that will drain water for the plants and not for drinking so don't need to worry about UV too much to kill pathogens. We need a metal mesh to put on top of the container (preferably from Home Depot) then pour water into the plants along with their leaves. In our case, quantum disinfection is key as it is suitable and convenient for the average-joe homesteader to carry out on a weekly basis. This system employs cutting-edge technology that employs a positively charged surface on the filter medium that draws electrons in pathogens, which are killed when they come into touch with the dynamic Activated Silica ceramic surface.
+
+## Meeting 7 - 10/25th
+
+- We examine our work from the previous week:
+   - Prototyped parts have been purchased and are almost ready for assembly.
+   - Designed sketches for a rain capture system were created.
+   - Created a slideshow and each of us worked on a different aspect of the presentation.
+
+## Slide Presentation - 10/26th
+
+- We presented (without Sunny as he was sick) upon being provided the documentation pertaining to our team's slides in advance.
+- [Slide Deck](https://docs.google.com/presentation/d/171nyZP6sRUp8ZpKsjyyOi5lSWa54IrMhUQTDVBX4z1k/edit?usp=sharing)
 
 ## Be in Touch
 
