@@ -91,6 +91,31 @@ Researching options for data collection:
 - We presented (without Sunny as he was sick) upon being provided the documentation pertaining to our team's slides in advance.
 - [Slide Deck](https://docs.google.com/presentation/d/171nyZP6sRUp8ZpKsjyyOi5lSWa54IrMhUQTDVBX4z1k/edit?usp=sharing)
 
+## Meeting 8 - 11/9th
+
+- Concentrating on how to scale up to whole project (can't achieve this in a quarter);
+
+  - The only way to scale up would be to acquire a stronger pump ($30-40 drip-irrigation low pressure) - the fish tank pump now works but would not work for tubing for the entire garden: If we can scan it, we should get reimbursed - we don't want to go over budget.
+
+  - It may be necessary to run on the walls in order to avoid crossing the walkway; it may also be necessary to place rubber over it in order to accommodate children (particularly if they are special-education pupils).
+
+  - It is necessary to know where the electricity is linked to the wall: Prioritize the two-barrel system (where will it live? Where will the wires be installed?)
+
+  - We need to acquire the information we require. how much does it cost? What do you need to buy, what do you need to change, and how many man hours do you need? How immediately usable will it be? Power, downspouts, and other issues must be resolved as soon as possible.
+
+  - Consider how many man hours are required (e.g., cut through steel pipe for 10-15 minutes, install diverter (1 hour, for example), pvc overflow what fittings what connections (time to cement in pieces)
+
+  - How much weight should we put on barrels if we set them on concrete on a bed to make it stable? Secure strappings and connections are required if it is taller than the bed. (Earthquake safety anchors are made from water heater strapping.)
+
+  - Do we plan for full capacity during the dry season, or do we design for all year - that is for the entire roof (2,014 sq ft^2)?
+
+  - Deprioritize the prototype and get into the meat of the problem.
+
+- Our Gantt Chart (as of 11/9/21)
+![Gantt Chart (as of 11/9/21)](https://user-images.githubusercontent.com/42426861/141532462-e578e07f-a5fe-4ea7-8689-10c45cadb015.png)
+
+- [Design Reflection](https://docs.google.com/document/d/1LXDf8FLzjzg0pZDu8wwn17UrlPnDT1acKU2wBW3spfw/edit?usp=sharing)
+
 ## Be in Touch
 
 - Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about the computing industry in the Silicon Valley. 
