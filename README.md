@@ -118,11 +118,11 @@ Researching options for data collection:
 
 ## Meeting 9 - 11/16th
 
-- Google Maps ideas on where to put the barrels
+- Google Maps ideas on where to put the barrels.
 
 - Let's just say Eric is capable of working on the powered pumping side of stuff (e.g., what pump do we need, how we're going to schedule it, wiring) will be addressed once the site visit is completed.
 
-- I can check at the [blue barrel site](https://www.bluebarrelsystems.com/tools-and-accessories/) to see what components we need from the site and office shelf system; gutters are 3" steel tubing (has to fit that or at least be adaptable to fit that)
+- I can check at the [blue barrel site](https://www.bluebarrelsystems.com/tools-and-accessories/) to see what components we need from the site and office shelf system; gutters are 3" steel tubing (has to fit that or at least be adaptable to fit that).
  
 - [Blue Barrel Components Document](https://docs.google.com/document/d/1DAgJFnxsn4U4HAk-Hs9vqWfiohY2f3jQsDjPfPp6uUA/edit?usp=sharing)
 
