@@ -126,6 +126,26 @@ Researching options for data collection:
  
 - [Blue Barrel Components Document](https://docs.google.com/document/d/1DAgJFnxsn4U4HAk-Hs9vqWfiohY2f3jQsDjPfPp6uUA/edit?usp=sharing)
 
+## Final Presentation - 11/29th-11/30th
+
+- Our team met this week to review our final report and work on our final presentation slides. More study was conducted to determine the sizes of the rain barrels based on the quantity of space available on site. Sunny was able to obtain such measurements on his visit to the site last week.
+
+- So far, here's what we've done:
+  - The site was surveyed for installation locations.
+  - The primary location for the rainwater collection system has been determined.
+  - Methodologies for collecting rainwater were investigated.
+  - Water is being diverted from pipes across the garden.
+  - Two downpipes are close enough to the water holding area to be harvested.
+  - Water will be directed from these pipelines and into barrels equipped with filters.
+  - Basic design prototyped
+  - There was a demonstration of a submersible pump. 
+
+- Tasks that we are unable to execute: 
+  - The design's purchase and installation
+  - Keeping the design
+
+- [Final Presentation](https://docs.google.com/presentation/d/1V70TTeRNqOqZtpzOwAHefrnNfKcoAyB3B4D3S5SgI5E/edit?usp=sharing)
+
 ## Be in Touch
 
 - Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about the computing industry in the Silicon Valley. 
