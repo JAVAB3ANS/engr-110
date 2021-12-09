@@ -154,6 +154,8 @@ Researching options for data collection:
 
 - Currently, the irrigation system will be powered by a bigger fish tank pump. Because the pump operates on 115 volts, no conversion circuitry is required. The pump may be controlled by an outside smart switch, which can be operated automatically or manually.
 
+- [Final Presentation](https://docs.google.com/document/d/1v1zIlNgvV92V8HzHBnb3wHMaFvGZbefDZ8EbF12-SNg/edit?usp=sharing)
+
 ## Be in Touch
 
 - Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about the computing industry in the Silicon Valley. 
