@@ -146,6 +146,14 @@ Researching options for data collection:
 
 - [Final Presentation](https://docs.google.com/presentation/d/1V70TTeRNqOqZtpzOwAHefrnNfKcoAyB3B4D3S5SgI5E/edit?usp=sharing)
 
+## Final Week - 12/8th
+
+- The location of the rain barrels has been determined. A location along the fence, adjacent to the larger garden, is a potential alternative. The placement is good since the gutter pipe will be simple and will not be routed over any sidewalks. Because of the close proximity, irrigation plumbing is also relatively straightforward.
+
+- To minimize sediment buildup in the main tanks, a first flush filter will be required. To water plants, the filter may be poured into the garden. In order to serve 883 square feet of roof, 44 gal of water must be redirected in the first flush.
+
+- Currently, the irrigation system will be powered by a bigger fish tank pump. Because the pump operates on 115 volts, no conversion circuitry is required. The pump may be controlled by an outside smart switch, which can be operated automatically or manually.
+
 ## Be in Touch
 
 - Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about the computing industry in the Silicon Valley. 
